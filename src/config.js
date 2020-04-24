@@ -1,0 +1,1 @@
+export const url = 'https://api.sandbox.bookingsafrica.com/v2/account';
